@@ -24,7 +24,7 @@ Datasets To Be Used:
 
 Extract:  All datasets were extracted from the links sourced in this readme file as .csv files.  
 
-Transform:  All .csv files were read into Jupyter Notebooks files and transformed into Pandas dataframes for cleaning.  The dataset from the UN needed additional cleaning within the .csv to convert text to columns.  
+Transform:  All .csv files were read into Jupyter Notebooks files and transformed into Pandas dataframes for cleaning.  The dataset from the UN needed additional cleaning within the .csv to convert text to columns. The years for the features had to be transformed via .replace(), so that the features and the outcome could be joined together. Later the extraneous countries had to be removed using a .notna() method so that the outcome feature had no null values. 
 
 Data was graphed to visually inspected for outliers along with conducting anlytical box-plot outlier analysis.  There was a batch of data where decimal places were found to be moved 2 places in error after visual inspection and that was corrected.  
 
