@@ -41,6 +41,8 @@ The final database with the following features were chosen to expediate the proc
 
 ## Data Dictionary
 
+![Table Structure](Images/PostgreSQL_Table_Structure.png)
+
 **id**: Primary Key, Serial <br/>
 **country**: Country identifier, VARCHAR <br/>
 **year**: for life expectancy the year in the table represent the year of the data collection. <br/>
