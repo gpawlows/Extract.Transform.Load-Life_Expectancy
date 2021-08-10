@@ -24,9 +24,9 @@ Datasets To Be Used:
 
 Data Dictionary:
 
-id: Primary Key, Serial \n
-country: Country identifier, VARCHAR
-year: Year of data collection, Calendar Year
+id: Primary Key, Serial <br/>
+country: Country identifier, VARCHAR <br/>
+year: Year of data collection, Calendar Year 
 expectancy: Years expected to live if survived birth, Int
 birthattended: % of births attended by nurses or midwives, %
 gdpspend: % of Gross Domestic Product spent on all levels of education, %
