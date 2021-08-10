@@ -26,16 +26,16 @@ Data Dictionary:
 
 id: Primary Key, Serial <br/>
 country: Country identifier, VARCHAR <br/>
-year: Year of data collection, Calendar Year 
-expectancy: Years expected to live if survived birth, Int
-birthattended: % of births attended by nurses or midwives, %
-gdpspend: % of Gross Domestic Product spent on all levels of education, %
-drinkingwater: % of households who have access to clean drinking water in their home, %
-handwash: % of households who have access to basic santization for handwashing in the home, %
-literacy: % of adults in country who are literate, %
-meddoctor: number of doctors per 10,0000 persons per country, # personnel/10,000 people
-nursemidwives: number of nurses and midwives per 10,000 persons per countyr, # personnel/10,000 people
-stuteacherration: number of students per teacher in the primary education systems (similar to class room size), #students/teacher
+year: Year of data collection, Calendar Year <br/>
+expectancy: Years expected to live if survived birth, Int <br/>
+birthattended: % of births attended by nurses or midwives, Decimal <br/>
+gdpspend: % of Gross Domestic Product spent on all levels of education, Decimal <br/>
+drinkingwater: % of households who have access to clean drinking water in their home, Decimal <br/>
+handwash: % of households who have access to basic santization for handwashing in the home, Decimal <br/>
+literacy: % of adults in country who are literate, Decimal <br/>
+meddoctor: number of doctors per 10,0000 persons per country, # personnel/10,000 people <br/>
+nursemidwives: number of nurses and midwives per 10,000 persons per countyr, # personnel/10,000 people <br/>
+stuteacherration: number of students per teacher in the primary education systems (similar to class room size), #students/teacher <br/>
 
 
 
