@@ -22,6 +22,14 @@ Datasets To Be Used:
 
 ![Datasets](Images/Datasources.PNG)
 
+Extract:  All datasets were extracted from the links sourced in this readme file as .csv files.  
+
+Transform:  All .csv files were read into Jupyter Notebooks files and transformed into Pandas dataframes for cleaning.  The dataset from the UN needed additional cleaning within the .csv to convert text to columns.  
+
+Data was graphed to visually inspected for outliers along with conducting anlytical box-plot outlier analysis.  There was a batch of data where decimal places were found to be moved 2 places in error after visual inspection and that was corrected.  
+
+
+
 Data Dictionary:
 
 id: Primary Key, Serial <br/>
