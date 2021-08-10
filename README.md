@@ -14,4 +14,7 @@ Longer life; this is a universal goal that the world’s countries have been try
 
 
 
-Datasets To Be Used:  World Health Statistics 2020 (WHO) for Life Expectancy, Basic Infrastructure/Services, and Access to Healthcare data, UN Data for Education data, Ourworldindata.org/literacy for Literacy data
+Datasets To Be Used:  
+
+![Datasets](Images/Datasources.png)
+
