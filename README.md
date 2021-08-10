@@ -26,7 +26,12 @@ Data Dictionary:
 
 id: Primary Key, Serial <br/>
 country: Country identifier, VARCHAR <br/>
-year: Year of data collection, Calendar Year <br/>
+year: for life expectancy the year in the table represent the year of the data collection. <br/>
+For any of the features the year in the table represents an average of multiple years of data, according to the following key <br/>
+2019: Average of 2016-2019 data <br/>
+2015: Average of 2011-2015 data <br/>
+2010: Average of 2006-2010 data <br/>
+2000: Average of 2000-1996 data <br/> 
 expectancy: Years expected to live if survived birth, Int <br/>
 birthattended: % of births attended by nurses or midwives, Decimal <br/>
 gdpspend: % of Gross Domestic Product spent on all levels of education, Decimal <br/>
