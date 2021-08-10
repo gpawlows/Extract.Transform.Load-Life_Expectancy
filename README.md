@@ -24,7 +24,7 @@ Datasets To Be Used:
 
 Data Dictionary:
 
-id: Primary Key, Serial
+id: Primary Key, Serial \n
 country: Country identifier, VARCHAR
 year: Year of data collection, Calendar Year
 expectancy: Years expected to live if survived birth, Int
