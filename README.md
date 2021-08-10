@@ -31,14 +31,7 @@ Data was graphed to visually inspected for outliers along with conducting anlyti
 
 
 Data Dictionary:
-<html>
-<body>
-<tr>
-<th> Column Name </th>
-<th> Description </th>
-<th> DataType </th>
-</body>
-</html>
+
 id: Primary Key, Serial <br/>
 country: Country identifier, VARCHAR <br/>
 year: for life expectancy the year in the table represent the year of the data collection. <br/>
@@ -57,6 +50,7 @@ meddoctor: number of doctors per 10,0000 persons per country, # personnel/10,000
 nursemidwives: number of nurses and midwives per 10,000 persons per countyr, # personnel/10,000 people <br/>
 stuteacherration: number of students per teacher in the primary education systems (similar to class room size), #students/teacher <br/>
 
+Database: PostgreSQL (ETLAssignment_dB)
 
 
 
