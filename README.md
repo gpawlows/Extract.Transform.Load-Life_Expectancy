@@ -36,7 +36,7 @@ Data was graphed to visually inspected for outliers along with conducting anlyti
 
 ### Load
 
-The final database with the following features were chosen to expediate the process for analysis of the life expectancy dataset.
+The final database with the following features were chosen to expediate the process for analysis of the life expectancy dataset.  PostgresSQL was the chosen database medium due to the relational nature of the inquiry and the stability of the Postgres platform.  One table containing all of the features could also allow for easier multivariate analysis, which was not possible before joining the data in this manner.    
 
 
 ## Data Dictionary
