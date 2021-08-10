@@ -31,7 +31,14 @@ Data was graphed to visually inspected for outliers along with conducting anlyti
 
 
 Data Dictionary:
-
+<html>
+<body>
+<tr>
+<th> Column Name </th>
+<th> Description </th>
+<th> DataType </th>
+</body>
+</html>
 id: Primary Key, Serial <br/>
 country: Country identifier, VARCHAR <br/>
 year: for life expectancy the year in the table represent the year of the data collection. <br/>
